@@ -1,0 +1,9 @@
+{
+  "semantic_similarity_mean": 0.4894075393676758,
+  "rouge1_mean": 0.1987578469984485,
+  "rouge2_mean": 0.06678260869565218,
+  "rougeL_mean": 0.17577976687751123,
+  "bleu_mean": 6.868092060565097e-79,
+  "exact_match_rate": 0.0,
+  "total_samples": 5
+}

@@ -1,0 +1,55 @@
+{"question": "What is a feature in bioinformatics?", "answer": "A feature is a measurable property or characteristic used for data analysis in biological systems."}
+{"question": "What is a phylogenetic tree?", "answer": "A phylogenetic tree is a diagram that represents evolutionary relationships among organisms."}
+{"question": "What is DNA methylation?", "answer": "DNA methylation is an epigenetic modification that adds a methyl group to DNA, often silencing gene expression."}
+{"question": "What is a FASTA file?", "answer": "A FASTA file is a text-based format for representing nucleotide or protein sequences."}
+{"question": "What is genomic imprinting?", "answer": "Genomic imprinting is an epigenetic phenomenon where certain genes are expressed in a parent-of-origin-specific manner."}
+{"question": "What is a BLAST algorithm?", "answer": "BLAST is a bioinformatics algorithm used to compare nucleotide or protein sequences against a database to find similarities."}
+{"question": "What is a transcription factor?", "answer": "A transcription factor is a protein that binds to specific DNA sequences to regulate the transcription of genetic information."}
+{"question": "What is the cytoskeleton?", "answer": "The cytoskeleton is a network of protein fibers that provide structural support to the cell."}
+{"question": "What is tRNA?", "answer": "tRNA, or transfer RNA, is an adaptor molecule that carries amino acids to the ribosome during translation."}
+{"question": "What is DNA replication?", "answer": "DNA replication is the process of copying the DNA molecule to ensure each new cell receives an identical set of DNA."}
+{"question": "What is a stop codon?", "answer": "A stop codon is a nucleotide triplet within mRNA that signals the end of translation."}
+{"question": "What is a network in systems biology?", "answer": "A biological network represents relationships among genes, proteins, or other cellular components."}
+{"question": "What is flux balance analysis?", "answer": "Flux balance analysis is a mathematical method for analyzing the flow of metabolites through a metabolic network."}
+{"question": "What is an operon?", "answer": "An operon is a cluster of genes under the control of a single promoter that are transcribed together in prokaryotes."}
+{"question": "What is RNA polymerase?", "answer": "RNA polymerase is an enzyme that synthesizes RNA from a DNA template during transcription."}
+{"question": "What is the nucleus?", "answer": "The nucleus is a membrane-bound organelle that contains the cell's genetic material."}
+{"question": "What is mRNA?", "answer": "mRNA, or messenger RNA, carries genetic information from DNA to the ribosome for protein synthesis."}
+{"question": "What is a k-mer?", "answer": "A k-mer is a substring of length k from a DNA or protein sequence."}
+{"question": "What is dimensionality reduction?", "answer": "Dimensionality reduction is the process of reducing the number of variables in a dataset while preserving important information."}
+{"question": "What is a support vector machine?", "answer": "A support vector machine is a supervised learning algorithm used for classification and regression tasks."}
+{"question": "What is a substitution matrix?", "answer": "A substitution matrix is used in sequence alignment to score alignments between different residues."}
+{"question": "What is an epigenome?", "answer": "The epigenome consists of chemical compounds that modify the genome without altering the DNA sequence."}
+{"question": "What is an enhancer?", "answer": "An enhancer is a DNA element that increases the transcription of a gene from a distance."}
+{"question": "What is an HMM?", "answer": "A Hidden Markov Model (HMM) is a statistical model used to analyze biological sequences."}
+{"question": "What is a classifier?", "answer": "A classifier is an algorithm that assigns categories to data based on learned patterns."}
+{"question": "What is RNA splicing?", "answer": "RNA splicing is the process of removing introns from pre-mRNA and joining exons to form mature messenger RNA."}
+{"question": "What is cell differentiation?", "answer": "Cell differentiation is the process by which a cell changes into a specialized cell type."}
+{"question": "What is normalization in data analysis?", "answer": "Normalization is the process of scaling data to ensure comparability across features or samples."}
+{"question": "What is the central dogma of molecular biology?", "answer": "The central dogma describes the flow of genetic information from DNA to RNA to protein."}
+{"question": "What is a codon?", "answer": "A codon is a sequence of three nucleotides that corresponds to a specific amino acid or stop signal during protein synthesis."}
+{"question": "What is a mitochondrion?", "answer": "A mitochondrion is an organelle that generates energy for the cell through cellular respiration."}
+{"question": "What is cell signaling?", "answer": "Cell signaling is the process by which cells communicate using chemical signals."}
+{"question": "What is histone modification?", "answer": "Histone modification refers to the addition or removal of chemical groups to histone proteins, affecting chromatin structure and gene expression."}
+{"question": "What is machine learning in biology?", "answer": "Machine learning in biology involves using algorithms to find patterns and make predictions from biological data."}
+{"question": "What is sequence alignment?", "answer": "Sequence alignment is the process of arranging sequences to identify regions of similarity."}
+{"question": "What is a receptor?", "answer": "A receptor is a protein that binds to specific molecules to initiate a cellular response."}
+{"question": "What is a biological pathway?", "answer": "A biological pathway is a series of actions among molecules in a cell that leads to a certain product or change."}
+{"question": "What is chromatin remodeling?", "answer": "Chromatin remodeling is the dynamic modification of chromatin architecture to allow access to DNA for transcription."}
+{"question": "What is a lysosome?", "answer": "A lysosome is an organelle that contains enzymes for digesting cellular waste."}
+{"question": "What is a motif in bioinformatics?", "answer": "A motif is a short, recurring sequence pattern that has a biological significance."}
+{"question": "What is the endoplasmic reticulum?", "answer": "The endoplasmic reticulum is an organelle involved in protein and lipid synthesis."}
+{"question": "What is a metabolic pathway?", "answer": "A metabolic pathway is a sequence of chemical reactions within a cell."}
+{"question": "What is a SNP?", "answer": "A SNP, or single nucleotide polymorphism, is a variation at a single position in a DNA sequence among individuals."}
+{"question": "What is gene expression?", "answer": "Gene expression is the process by which genetic information is used to synthesize proteins or RNA."}
+{"question": "What is homology modeling?", "answer": "Homology modeling is a method for predicting the 3D structure of a protein based on known structures of related proteins."}
+{"question": "What is a gene?", "answer": "A gene is a segment of DNA that contains the instructions for building a specific protein or RNA molecule."}
+{"question": "What is a promoter?", "answer": "A promoter is a DNA sequence that initiates gene transcription."}
+{"question": "What is a genome?", "answer": "A genome is the complete set of genetic material in an organism."}
+{"question": "What is a ribosome?", "answer": "A ribosome is a molecular machine that assembles proteins by translating mRNA."}
+{"question": "What is sequence clustering?", "answer": "Sequence clustering groups similar biological sequences based on similarity measures."}
+{"question": "What is apoptosis?", "answer": "Apoptosis is a form of programmed cell death that occurs in multicellular organisms."}
+{"question": "What is a mutation?", "answer": "A mutation is a change in the DNA sequence that can affect gene function."}
+{"question": "What is genetic recombination?", "answer": "Genetic recombination is the exchange of genetic material between different molecules of DNA, leading to genetic diversity."}
+{"question": "What is autophagy?", "answer": "Autophagy is a cellular process that degrades and recycles damaged cell components."}
+{"question": "What is a feedback loop in biology?", "answer": "A feedback loop is a system where the output influences the activity of the system itself."}
